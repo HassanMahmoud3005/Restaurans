@@ -103,7 +103,7 @@ ul {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
-  transition: 1s;
+  transition: .8s;
 }
 #header nav ul {
   float: right;
